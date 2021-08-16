@@ -16,5 +16,3 @@ Can easily be modified to change other element styles based on scroll height/pag
    - Add/Remove number of intersectionObserver calls relevant to your project
 - Works great with smooth scrolling
 
-## Credits
-
